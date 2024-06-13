@@ -31,6 +31,16 @@
   <img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" height="40" alt="instagram logo"  
   />
 <a href="https://vk.com/id575179123">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" height="40" alt="vk logo"  
-  />
-  my statistics
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" height="40" alt="vk logo" />
+  </a>
+</div>
+
+## My Statistics
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=aura)
+
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=aura)
+
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+
+
