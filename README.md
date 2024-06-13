@@ -23,6 +23,7 @@
 </div>
 
 ## Social media
-[![Logo Instagram](https://github.com/Onerload/Onerload/blob/main/assets/Instagram_logo_2022.svg.png)](https://www.instagram.com/zakhariunkevich/)
-[![Logo Telegram](https://github.com/Onerload/Onerload/blob/main/assets/Telegram_2019_Logo.svg.png)](https://t.me/IamOverlord228)
-[![Logo Discord](https://github.com/Onerload/Onerload/blob/main/assets/discord-logo-icon-social-media-icon-free-png.webp)](https://discord.com/channels/@me)
+<div id="badges" target="_blank">
+<a href="https://t.me/IamOverlord228">
+  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670306.png" height="40" alt="telegram logo"  
+  />
