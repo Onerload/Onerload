@@ -27,3 +27,6 @@
 <a href="https://t.me/IamOverlord228">
   <img src="https://cdn-icons-png.flaticon.com/128/3670/3670306.png" height="40" alt="telegram logo"  
   />
+<a href="https://www.instagram.com/zakhariunkevich/">
+  <img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" height="40" alt="instagram logo"  
+  />
