@@ -30,6 +30,7 @@
 <a href="https://www.instagram.com/zakhariunkevich/">
   <img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" height="40" alt="instagram logo"  
   />
-<a href="https://discord.com/channels/@me">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968968.png" height="40" alt="discord logo"  
+<a href="https://vk.com/id575179123">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" height="40" alt="vk logo"  
   />
+  my statistics
